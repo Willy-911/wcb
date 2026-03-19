@@ -1,7 +1,5 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:wcb/core/helpers/extensions.dart';
-import 'package:wcb/core/routing/routes.dart';
 
 import '../../../../core/theming/styles.dart';
 
